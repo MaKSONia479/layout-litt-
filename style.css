@@ -1,0 +1,33 @@
+.container {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  border: 10px solid hsla(0, 0%, 0%, 0.439);
+  height: 100vh;
+  gap: 5px;
+  background-color: #f0f0f0;
+}
+
+.zero {
+  background-color: bisque;
+}
+
+.one {
+  background-color: cadetblue;
+}
+
+.two {
+  background-color: forestgreen;
+}
+
+.three {
+  background-color: gold;
+}
+
+.four {
+  background-color: deepskyblue;
+}
+
+.five {
+  background-color: chocolate;
+}
